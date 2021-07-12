@@ -1,0 +1,13 @@
+Libraries :-
+
+  pip3 install django
+  pip3 install djangorestframework markdown django-filter djangorestframework_simplejwt
+
+References :-
+  1. https://python.plainenglish.io/django-rest-framework-jwt-auth-with-drf-e13ccde9e68f
+  2. https://python.plainenglish.io/django-rest-framework-jwt-auth-with-login-and-register-77f830cd8789
+  3. https://python.plainenglish.io/django-rest-framework-parse-nested-json-and-projecting-api-with-permissions-16639ed2686d
+  4. https://codeburst.io/django-model-with-relationships-what-is-relationship-and-why-to-use-it-1718037d1335
+  5. https://sjlouji10.medium.com/django-models-with-relationships-one-to-one-relationship-f3ef8d77aec1
+  6. https://sjlouji10.medium.com/django-models-with-relationships-many-to-one-relationship-6234d2178203
+  7. https://sjlouji10.medium.com/django-models-with-relationships-many-to-many-relationship-e47c0120994b

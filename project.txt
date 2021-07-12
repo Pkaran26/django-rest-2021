@@ -1,0 +1,4 @@
+shopping
+school attendance
+hotel management
+inventory management
